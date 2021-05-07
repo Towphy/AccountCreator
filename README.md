@@ -21,5 +21,8 @@ The database searches for the username inputed to see if it exist. If it does ex
 
 # What You Can Do With This: 
 
-You can add this do almost everything. You can set it so it saves points, a company name, email, etc. 
+You can add this do almost everything. You can set it so saves the users points, a company name, email, etc. 
+
+
+
 
